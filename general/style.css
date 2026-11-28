@@ -1,0 +1,7 @@
+/* .box ~ p{
+    color: blue;
+    background-color: black;
+} */
+div ~ p {
+    color: brown;
+}

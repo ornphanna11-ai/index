@@ -1,0 +1,10 @@
+.name{
+    color:#DAB716;
+}
+.rgb{
+    color: rgb(255,0,0);
+    color: rgba(0,0,255,0.5);
+}
+.hex{
+    color: #ff000099;
+}

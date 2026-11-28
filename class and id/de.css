@@ -1,0 +1,16 @@
+.box p{
+    color: blue;
+}
+.box1{
+    display: flex;
+    
+}
+.box1 p{
+    width: 100px;
+    margin: 10px;
+    text-align: center;
+}
+.box div p{
+    color:red;
+    
+}

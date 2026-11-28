@@ -1,0 +1,25 @@
+/* .heading{
+    color: blue;
+    background-color: antiquewhite;
+}
+.text{
+    color:blue;
+    background-color: brown;
+} */
+
+p,h1,div,span{
+    color: blue;
+    background-color: aliceblue;
+}
+
+#id1,#di2,#di3,#id4{
+    background-color: pink;
+}
+.text1,.text2,.text3{
+    color: antiquewhite;
+    background-color:black;
+}
+h5,.Mix,#Mix1{
+    color: brown;
+    background-color: yellow;
+}

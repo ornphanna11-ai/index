@@ -1,0 +1,7 @@
+@font-face {
+    font-family: 'dog' ;
+    src: url('f1.ttf');
+}
+p{
+    font-family: 'dog';
+}
